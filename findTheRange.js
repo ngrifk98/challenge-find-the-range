@@ -6,7 +6,6 @@ For example, if given the array [1, 4, 11, 2, 37, -4], your code should print ou
 // Starting array
 let array = [28, 43, -12, 30, 4, 0, -36]
 
-// Write your solution below:
 let smallest = array[0];
 let largest = array[0];
 
